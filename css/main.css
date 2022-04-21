@@ -1,0 +1,24 @@
+div{
+    margin: 0 1em;
+}
+.card-body{
+    text-align: center;
+    border-radius: 15px 15px 15px 15px;
+    border: 1px black solid;
+    box-shadow: 1px 1px black;
+    width: 7%;
+}
+a.nav-link{
+    color:white;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
