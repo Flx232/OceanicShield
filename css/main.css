@@ -8,13 +8,6 @@ div{
     box-shadow: 1px 1px black;
     width: 7%;
 }
-a.btn{
-    display:block;
-    text-align:center;
-}
-a.nav-link{
-    color:white;
-}
 .footer {
     position: relative;
     left: 0;
