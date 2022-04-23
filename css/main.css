@@ -8,11 +8,15 @@ div{
     box-shadow: 1px 1px black;
     width: 7%;
 }
+a.btn{
+    display:block;
+    text-align:center;
+}
 a.nav-link{
     color:white;
 }
 .footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
